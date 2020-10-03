@@ -16,4 +16,5 @@ int main() {
 
     nextNumber = addition(5);
     cout << nextNumber << endl;
+    return 0;           //signifies the termination.
 }
